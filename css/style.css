@@ -1,0 +1,284 @@
+.mbr{
+  background-color: #c4fb6d
+}
+.wrap{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+.main-header{
+  width: 100%;
+}
+.clearfix{
+  clear: both;
+  content: "";
+  display: table;
+}
+.right{
+  float: right;
+}
+.right li{
+  display: inline-block;
+  padding: 10px 15px 5px 15px;
+  font-size: 17px;
+  font-family:Montserrat;
+}
+.left{
+  float: left;
+  padding-top: 13px;
+  padding-bottom: 10px;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.right a{
+  text-decoration: none;
+  color: #000;
+}
+.right a:hover{
+  color: #fff;
+  text-shadow: 0 0 0.8em #ffffff, 0 0 0.6em #FBA1A1;
+}
+.banner{
+  position: relative;
+}
+.banner img{
+  width: 100%;
+  height: 500px;
+}
+.banner-content{
+  position: absolute;
+  transform: translate(59%, -197%);
+  font-size: 33px;
+  font-family: Montserrat;
+  color: #fff;
+  text-shadow: 0 0 0.8em #ffffff, 0 0 0.6em #e4e3e3;
+}
+.wrap{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+.card-section{
+  margin: 30px 0;
+}
+.wrap{
+  max-width: 1140px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+.row{
+  width: 100%;
+}
+.column{
+  width: 23%;
+  float: left;
+  background-color: #c4fb6d;
+  margin: 11px;
+  text-align: center;
+}
+.column img{
+  padding: 30px 0;
+  height: 50px;
+}
+.image-border{
+  border-top: 5px solid white;
+}
+h2{
+  padding-top: 30px;
+  font-family: Montserrat;
+  font-weight: 100;
+}
+p{
+
+  font-family: Montserrat;
+}
+.extra{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+}
+.section-title{
+  text-align: center;
+}
+.section-heading{
+  padding-top: 96px;
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+.section-para{
+  padding-bottom: 20px;
+  font-family: Montserrat;
+}
+.section-column{
+  width: 23%;
+  float: left;
+  margin: 11px;
+}
+.img-section-trending{
+  width: 100%;
+  border-radius: 5%;
+}
+.img-heading{
+  padding: 10px 0;
+  font-family: Merriweather;
+  font-size: 20px;
+}
+
+.img-content{
+  font-family: Montserrat;
+  padding: 0px;
+}
+#property{
+  background-color: #c4fb6d;
+}
+.description{
+  text-align: center;
+}
+.property-heading{
+  padding-top: 70px;
+  padding-bottom: 20px;
+  font-weight: 900;
+}
+.property-para{
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: Montserrat;
+}
+.property-row{
+  width: 100%;
+}
+.property-column{
+  width: 31.33%;
+  float:left;
+  margin: 11px;
+}
+.property-image{
+  border-radius: 10px;
+  width: 100%;
+}
+h3{
+  padding-top: 10px;
+  font-size: 20px;
+  font-family: Merriweather;
+}
+.property-row-para{
+  padding-top: 10px;
+  text-align: left;
+  font-family: Montserrat;
+  font-size: 17px;
+  padding: 0px;
+}
+.our-company{
+  margin-bottom: 90px;
+}
+.company-description{
+  text-align: center;
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+h2{
+  padding-top: 30px;
+  font-weight: 900;
+}
+.company-description-para{
+  padding-top:10px;
+  font-size: 17px;
+  font-family: Montserrat;
+}
+.our-company-row{
+  width: 100%;
+}
+.our-company-column{
+  width: 48%;
+  float: left;
+  margin: 0 8px;
+}
+.about-text{
+  line-height: 1.5;
+  font-family: Montserrat;
+  font-size: 15px;
+}
+.list{
+  margin-top: 15px;
+  padding-left: 0
+}
+.list li{
+  list-style: none;
+  margin-top: 10px;
+}
+.arrow-point{
+  float: left;
+  height: 20px;
+}
+.points{
+  padding-left: 30px;
+}
+.our-company-image{
+  margin-top: 20px;
+  height: 296px;
+}
+.txt{
+  font-size: 13px;
+  font-weight: bold;
+  font-family: arial;
+  padding: 11px 23px;
+  text-decoration: none;
+  text-shadow: -1px 2px 0px #5b8a3c;
+  color: #fff;
+  cursor: pointer;
+  background: linear-gradient(to bottom, #c5fb6d 5%, #578540 100%);
+  background-color: #c5fb6d;
+  box-shadow: 1px 11px 17px -6px #3e7327;
+  border-radius: 6px;
+  border: 1px solid #4b8f29;
+  margin-top: 10px;
+  display: inline-block;
+}
+.txt:hover{
+  background: linear-gradient(to bottom,#578540 5%, #c5fb6d 100%);
+  background-color: #578540;
+
+}
+.footer-background{
+  background-color: #000;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.row-footer{
+  width: 100%;
+}
+.column-footer{
+  width: 23%;
+  float: left;
+  margin: 11px;
+}
+h5{
+  font-family: Montserrat;
+  color: #c4fb6d;
+  text-shadow: 0 0 0.8em #c4fb6d, 0 0 0.6em #bac964;
+}
+.company-address{
+  font-family: Merriweather;
+  font-size: 12px;
+  color: #fff;
+  line-height: 3;
+  font-style: italic;
+}
+.footer-list{
+  list-style: none;
+  padding: 0;
+  line-height: 1.5;
+}
+.list-item{
+  padding: 5px 0;
+}
+.footer-links{
+  text-decoration: none;
+  font-family: Montserrat;
+  color: #fff;
+  padding: 50px 0;
+}
